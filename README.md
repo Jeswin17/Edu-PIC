@@ -1,7 +1,9 @@
+# EDU-PIC
+
+
 ![Screenshot (89)](https://user-images.githubusercontent.com/43417744/60643222-f1abd800-9e64-11e9-90d6-f95608dbb2d3.png)
 
 
-# EDU-PIC
 
  connect to NUS_Guest and VISIT 172.17.212.68:5000
 
