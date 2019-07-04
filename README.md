@@ -30,6 +30,7 @@ To use our tool, connect to NUS-Guest wifi network and type in the following IP 
 EDU-PIC allows users to capture images of any object in a room and returns information regarding the item .
 Project can be further scaled to add further functationalities such as interactive console and real time information .
 
+![Screenshot (85)](https://user-images.githubusercontent.com/43417744/60643314-38013700-9e65-11e9-8813-cb88200b3f7b.png)
 
 
 Finally,Pull requests/changes/stars would be really helpful.
