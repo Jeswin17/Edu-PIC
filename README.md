@@ -1,4 +1,5 @@
-![](flasksite/static/img/cam.png)
+![Screenshot (89)](https://user-images.githubusercontent.com/43417744/60643222-f1abd800-9e64-11e9-90d6-f95608dbb2d3.png)
+
 
 # EDU-PIC
 
